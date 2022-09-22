@@ -3,7 +3,7 @@
 </h2>
 
 ## 🔗 Link de deploy da Api:
-A APi pode ser testada usando um API Client como por exemplo o Insomnia utilizando o link abaixo e seguindo os [endpoints](https://github.com/carlpess/api-sistema-financas/edit/master/README.md#endpoints) descritos no readme
+A APi pode ser testada usando um API Client como por exemplo o Insomnia utilizando o link abaixo e seguindo os [endpoints](#-endpoints) descritos no readme
 
 https://api-sistema-financas.herokuapp.com/
 ## 
