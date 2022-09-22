@@ -1,5 +1,5 @@
 const express = require('express');
-const { verifyLogin } = require('./filtro/verifcalogin');
+const { verifyLogin } = require('./filtro/verifcaLogin');
 const { listCategories } = require('./controladores/categorias');
 const {
     registerUser,
